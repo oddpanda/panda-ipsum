@@ -1,0 +1,21 @@
+{
+  "servers": [
+    {
+      "host": "188.166.173.86",
+      "username": "root",
+      "password": "Opdbrv13",
+      "env": {}
+    }
+  ],
+  "setupNode": true,
+  "setupMongo": true,
+  "appName": "panda-ipsum",
+  "nodeVersion": "0.10.40",
+  "app": "/Users/RevellOPD/panda-ipsum/lorem-ipsum",
+  "env": {
+    "PORT": 80,
+    "ROOT_URL": "http://188.166.173.86"
+  },
+  "deployCheckWaitTime": 120,
+  "enableUploadProgressBar": true
+}
